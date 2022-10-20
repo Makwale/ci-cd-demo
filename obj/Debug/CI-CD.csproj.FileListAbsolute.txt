@@ -1,0 +1,8 @@
+C:\Derivco Dev\CI-CD\bin\Debug\CI-CD.exe.config
+C:\Derivco Dev\CI-CD\bin\Debug\CI-CD.exe
+C:\Derivco Dev\CI-CD\bin\Debug\CI-CD.pdb
+C:\Derivco Dev\CI-CD\obj\Debug\CI-CD.csproj.AssemblyReference.cache
+C:\Derivco Dev\CI-CD\obj\Debug\CI-CD.csproj.SuggestedBindingRedirects.cache
+C:\Derivco Dev\CI-CD\obj\Debug\CI-CD.csproj.CoreCompileInputs.cache
+C:\Derivco Dev\CI-CD\obj\Debug\CI-CD.exe
+C:\Derivco Dev\CI-CD\obj\Debug\CI-CD.pdb
