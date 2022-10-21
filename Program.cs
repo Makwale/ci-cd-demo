@@ -11,6 +11,7 @@ namespace CI_CD
         static void Main(string[] args)
         {
             Console.Write("Hello world again");
+            Console.Write("This is fun");
         }
     }
 }
